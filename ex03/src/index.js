@@ -1,12 +1,6 @@
 function main() {
     //Only change code below this line
-
-//jednolinijski komentar
-/* više
-linijski
-komentar 
-   */
-    
+    var forCat;
     // Only change code above this line
 }
 console.log(main());
